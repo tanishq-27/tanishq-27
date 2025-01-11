@@ -5,11 +5,11 @@
 </p>
 
 
--  I'm based in Gurugram / Bareilly
+-  I'm based in Noida / Bareilly
 
 - 💻   See my portfolio at <a href="https://tanishq-27.github.io/Porfolio/" rel="nofollow">tanishq-27.github.io</a>
 
-- ✉️  You can contact me at <a href="mailto:tanishqj486@gmail.com">tanishqj486@gmail.com</a>
+- ✉️  You can contact me at <a href="mailto:tanishqj486@gmail.com">tanishq.er27@gmail.com</a>
 
 - 🧠  I'm learning Web Technologies to make awesome websites .
 
